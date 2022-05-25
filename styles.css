@@ -1,0 +1,257 @@
+body {
+  margin: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+.container-one {
+  margin: 0;
+
+  width: 100%;
+}
+
+#one-tag1 {
+  position: absolute;
+  margin-top: 18rem;
+  margin-left: 25rem;
+  font-size: 10rem;
+  color: rgb(77, 74, 71);
+  font-family: "Dancing Script", sans-serif;
+  font-weight: 10;
+}
+.one-tag2 {
+  position: absolute;
+  color: blanchedalmond;
+  margin-top: 52rem;
+  margin-left: 16rem;
+  font-size: 2rem;
+}
+.profile-img {
+  position: absolute;
+  margin-left: 2rem;
+}
+.profile-name {
+  position: absolute;
+  color: #1e192c;
+  margin-top: 8rem;
+  margin-left: 4rem;
+  font-family: "Dancing Script", sans-serif;
+}
+.nav-bar {
+  font-size: 27px;
+  position: absolute;
+  margin-left: 60rem;
+  margin-top: 6rem;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: #000000;
+}
+
+.connect-bookmark {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: 27px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 900px;
+}
+.error-not-found {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: 27px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 900px;
+}
+
+/* now the second section of wen=bsite has started..........................................*/
+/* now the second section of wen=bsite has started..........................................*/
+/* now the second section of wen=bsite has started..........................................*/
+/* now the second section of wen=bsite has started..........................................*/
+
+.container-two-img {
+  width: 100%;
+}
+.container-two-heading {
+  margin-top: 5rem;
+  position: absolute;
+  font-size: 5rem;
+  width: 30%;
+  color: azure;
+}
+.container-two-gif {
+  position: absolute;
+  margin-top: 15rem;
+}
+.container-two-quote1 {
+  position: absolute;
+  font-size: 2rem;
+  margin-left: 40rem;
+  margin-top: 20rem;
+  font-weight: bolder;
+}
+.container-two-quote2 {
+  position: absolute;
+  font-size: 1.7rem;
+  margin-top: 25rem;
+  margin-left: 40rem;
+  font-weight: bold;
+}
+/* this below css is for button on container two of "read more"*/
+
+.myButton {
+  font-family: verdana;
+  color: #ffffff;
+  font-size: 14px;
+  text-shadow: 0px 1px 0px #e889b2;
+  box-shadow: 1px 2px 1px #f8e5f9;
+  padding: 16px 40px;
+  border-radius: 10px;
+  border: 2px solid #6da38a;
+  background: #000000;
+  position: absolute;
+  margin-left: 60rem;
+  margin-top: 35rem;
+  text-decoration: none;
+}
+.myButton:hover {
+  color: #080808;
+  background: #ffffff;
+}
+
+/* forom now on the third container is starting ...........................*/
+/* forom now on the third container is starting ...........................*/
+/* forom now on the third container is starting ...........................*/
+/* forom now on the third container is starting ...........................*/
+/* forom now on the third container is starting ...........................*/
+.container-three {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 45rem;
+  position: relative;
+}
+.container-three-img-ikigai {
+  margin-left: 56rem;
+  margin-top: 12rem;
+  background-image: url("img\css-shape-conatiner-three.png");
+  position: absolute;
+}
+.css-shape-container-three {
+  position: absolute;
+  margin-left: 60rem;
+}
+.container-three-discription {
+  position: absolute;
+  width: 700px;
+  height: 160px;
+  font-style: italic;
+  padding: 20px;
+  font-size: x-large;
+  margin-top: 18rem;
+  margin-left: 10rem;
+  background-color: yellow;
+}
+.container-three-heading {
+  position: absolute;
+  font-size: 5rem;
+  margin-top: 11rem;
+  margin-left: 12rem;
+}
+.writter-name-container-three {
+  font-size: 1.2rem;
+  margin-top: 30rem;
+  margin-left: 14rem;
+  position: absolute;
+}
+
+.mybutton {
+  font-family: verdana;
+  color: #faeeee;
+  font-size: 14px;
+  text-shadow: 0px 1px 0px #e889b2;
+  box-shadow: 1px 2px 1px #f8e5f9;
+  padding: 16px 40px;
+  border-radius: 10px;
+  border: 2px solid #6da38a;
+  background: #000000;
+  position: absolute;
+  text-decoration: none;
+  margin-top: 38rem;
+  margin-left: 15rem;
+}
+.mybutton:hover {
+  color: #080808;
+  background: #ffffff;
+}
+.Mybutton {
+  font-family: verdana;
+  color: #e2d1d1;
+  font-size: 14px;
+  text-shadow: 0px 1px 0px #e889b2;
+  box-shadow: 1px 2px 1px #f8e5f9;
+  padding: 16px 40px;
+  border-radius: 10px;
+  border: 2px solid #6da38a;
+  background: #000000;
+  position: absolute;
+  margin-left: 10rem;
+  text-decoration: none;
+  margin-top: 38rem;
+  margin-left: 35rem;
+}
+.Mybutton:hover {
+  color: #080808;
+  background: #ffffff;
+}
+
+/* from now on the fourth section of the webdite is starting */
+/* from now on the fourth section of the webdite is starting */
+/* from now on the fourth section of the webdite is starting */
+/* from now on the fourth section of the webdite is starting */
+/* from now on the fourth section of the webdite is starting */
+/* from now on the fourth section of the webdite is starting */
+/* from now on the fourth section of the webdite is starting */
+
+#container-four {
+  background-color: rgb(233, 183, 183);
+  width: 100%;
+  height: 30rem;
+  position: absolute;
+}
+.connect-line {
+  position: absolute;
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-left: 39rem;
+
+  font-weight: bold;
+  color: aliceblue;
+}
+.facebook-logo {
+  position: absolute;
+  margin-top: 20rem;
+  margin-left: 27rem;
+}
+.linkden-logo {
+  position: absolute;
+  margin-top: 20rem;
+  margin-left: 52rem;
+}
+.github-logo {
+  position: absolute;
+  margin-top: 20rem;
+  margin-left: 64rem;
+}
+.insta-logo {
+  position: absolute;
+  margin-top: 20rem;
+  margin-left: 39rem;
+}
+.update-text {
+  position: absolute;
+  margin-top: 9rem;
+  font-size: 1rem;
+  margin-left: 22em;
+}
+.copyright {
+  position: absolute;
+  margin-top: 28rem;
+  margin-left: 39rem;
+}
